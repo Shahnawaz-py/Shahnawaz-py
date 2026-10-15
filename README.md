@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full stack web applications using the MERN stack.<br>👯 I’m looking to collaborate on open source projects and innovative web applications.<br>🤝 I’m looking for help with software engineering best practices and scalable application architecture.<br>🌱 I’m currently learning Java, DSA, and AI-powered application development.<br>💬 Ask me about React, Next.js, Node.js, MongoDB, and full stack development.<br>⚡ Fun fact: I am a developer at day and ethical hacker at night.
+🔭 I’m currently working on full stack web applications using the MERN stack.<br>👯 I’m looking to collaborate on open source projects and innovative web applications.<br>🤝 I’m looking for help with software engineering best practices and scalable application architecture.<br>🌱 I’m currently working with JavaScript and Python fot AI powered application development and Java for DSA.<br>💬 Ask me about MERN stack and AI application development.<br>⚡ Fun fact: I am a developer at day and ethical hacker at night.
 
 
 ## 🌐 Socials:
